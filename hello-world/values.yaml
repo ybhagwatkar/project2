@@ -1,0 +1,8 @@
+imagename: 220411221176.dkr.ecr.us-east-1.amazonaws.com/demo1:hello-world.v3
+namespace: develop
+
+name: nginx-static-deployment
+container-name: nginx-static
+
+labels: nginx-static
+
